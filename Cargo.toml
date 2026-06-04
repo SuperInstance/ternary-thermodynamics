@@ -1,0 +1,10 @@
+[package]
+name = "ternary-thermodynamics"
+version = "0.1.0"
+edition = "2021"
+authors = ["SuperInstance"]
+license = "MIT"
+description = "Statistical mechanics analogs for ternary agent systems — entropy, temperature, phase transitions, free energy"
+repository = "https://github.com/SuperInstance/ternary-thermodynamics"
+keywords = ["ternary", "thermodynamics", "entropy", "statistical-mechanics", "phase-transition"]
+categories = ["mathematics", "science"]
