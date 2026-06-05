@@ -102,6 +102,14 @@ for t in &transitions {
 - **Well-tested** — 25+ unit tests
 - **Documented** — full rustdoc with statistical mechanics context
 
+## See Also
+
+- **ternary-energy** — Energy and thermodynamic models for ternary systems
+- **ternary-entropy** — Entropy and information theory for ternary distributions
+- **ternary-chaos** — Chaos and nonlinear dynamics for ternary systems
+- **ternary-complexity** — Complexity measures for ternary systems
+- **ternary-ising** — Ising model simulations with ternary spin states
+
 ## License
 
 MIT
